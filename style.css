@@ -1,0 +1,25 @@
+body {
+    background-image: linear-gradient( rgb(14, 12, 131), rgb(52, 49, 185),rgb(86, 85, 148));
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    min-height: 100vh;
+ 
+    margin: 0;
+  
+}
+
+h1 {
+    font-size: 50px;
+    background-color: white;;
+    color: rgb(0, 0, 0);
+    font-weight:bold;
+}
+
+.schedule {
+    color: white;
+    background-color: white;;
+}
+th{
+    font-weight:bold;
+}

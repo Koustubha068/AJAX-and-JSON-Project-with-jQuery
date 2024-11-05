@@ -1,0 +1,95 @@
+{
+    "schedule": [
+        {
+            "class": "AP Environmental Science",
+            "teacher": "Mrs. Tsakiris",
+            "room": "D201",
+            "period": 1,
+            "days": [
+                "A",
+                "B",
+                "C",
+                "E",
+                "F"
+            ]
+        },
+        {
+            "class": "Physical Ed 12 Lab",
+            "teacher": "Mr. Sininsky",
+            "room": "GYM",
+            "period": 2,
+            "days": [
+                "A",
+                "B",
+                "D",
+                "E",
+                "F"
+            ]
+        },
+        {
+            "class": "AP Statistics",
+            "teacher": "Mrs.Reich",
+            "room": "E213",
+            "period": 3,
+            "days": [
+                "A",
+                "C",
+                "D",
+                "E",
+                "G"
+            ]
+        },
+        {
+            "class": "AP Computer Science A",
+            "teacher": "Mrs. Rehwinkel",
+            "room": "A234",
+            "period": 4,
+            "days": [
+                "B",
+                "C",
+                "D",
+                "F",
+                "G"
+            ]
+        },
+        {
+            "class": "AP Literature & Composition",
+            "teacher": "Mrs. Rivera",
+            "room": "A123",
+            "period": 5,
+            "days": [
+                "A",
+                "B",
+                "D",
+                "E",
+                "G"
+            ]
+        },
+        {
+            "class": "AP Macroeconomics",
+            "teacher": "Mr. Anderson",
+            "room": "A106",
+            "period": 6,
+            "days": [
+                "A",
+                "C",
+                "D",
+                "F",
+                "G"
+            ]
+        },
+        {
+            "class": "Honors NJIT IS219 Advanced Website Development WDP",
+            "teacher": "Mr.Kilgore",
+            "room": "B111",
+            "period": 7,
+            "days": [
+                "B",
+                "C",
+                "E",
+                "F",
+                "G"
+            ]
+        }
+    ]
+}
